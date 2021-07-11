@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 80px;
+  font-size: 90px;
   font-weight: 700;
   line-height: 80px;
   color: #fff;
@@ -249,9 +249,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero p span {
   color: #fff;
-  padding-bottom: 4px;
-  letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  padding-bottom: 6px;
+  letter-spacing: 3px;
+  border-bottom: 5px solid #149ddd;
 }
 
 @media (min-width: 1024px) {
@@ -262,13 +262,13 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 30px;
+    line-height: 38px;
   }
   #hero h2 {
-    font-size: 18px;
-    line-height: 24px;
-    margin-bottom: 30px;
+    font-size: 20px;
+    line-height: 26px;
+    margin-bottom: 32px;
   }
 }
 
