@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://psv4.userapi.com/c534536/u576849966/docs/d23/2a659cd29527/imgonline-com-ua-Resize-9OUBaXYymD8Hncs.png?extra=-00_snHUSwzqKwUz27BDfGSIEm43aLX8I8X8fOjDLXcSDRBHofMREgISCmeUYU_mPNn34VyHYmOJSYy0s2kYzd3m_bDqzNNIBoZ1ffpmK5auFU38KvYWm2GQ3L_kW19pEtJ3oW8f9iwRkoMSiTaxS7P7Q975") top center;
+  background: url("https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-FjpkS98PxkV37Iyb.jpg") top center;
   background-size: cover;
 }
 
@@ -1077,6 +1077,6 @@ section {
   #footer {
     position: static;
     width: auto;
-    padding-right: 20px 15px;
+    padding-right: 20px;
   }
 }
